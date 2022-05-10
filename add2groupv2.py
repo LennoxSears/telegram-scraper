@@ -11,7 +11,7 @@ from telethon.tl.functions.channels import InviteToChannelRequest
 import random
 from tqdm import tqdm
 
-#test
+
 
 re="\033[1;31m"
 gr="\033[1;32m"
